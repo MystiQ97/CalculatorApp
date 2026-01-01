@@ -1,2 +1,2 @@
 # CalculatorApp
-A simple calculater created using binary expression trees and with a graphical user interface created using tkinter
+A simple calculater created using only python standard library and a GUI with tkinter
